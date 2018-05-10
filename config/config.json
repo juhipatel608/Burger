@@ -13,12 +13,12 @@
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
-  "production": {
-    "username": "p1c1hf70w9d51mc4",
-    "password": 	"mzcx3mj3u7ewslqa",
-    "database": "vyqu6nihcm4wkzbx",
-    "host": "cig4l2op6r0fxymw.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-    "use_env_variable":"JawsDB_URL",
-    "dialect": "mysql"
-  }
+  // "production": {
+  //   "username": "p1c1hf70w9d51mc4",
+  //   "password": 	"mzcx3mj3u7ewslqa",
+  //   "database": "vyqu6nihcm4wkzbx",
+  //   "host": "cig4l2op6r0fxymw.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+  //   "use_env_variable":"JawsDB_URL",
+  //   "dialect": "mysql"
+  // }
 }
